@@ -1,0 +1,22 @@
+{
+  "description": "CJM is a small development store run by young developers who are passionate about creating tools for the community. What started as a hobby has turned into a place where we build and share useful resources for servers and online communities.
+
+We specialise in creating FiveM scripts, Discord tools, custom bots, and technical utilities designed to help server owners improve their communities. Our goal is to provide simple, affordable, and useful solutions while continuing to learn and grow as developers.
+
+Even though we’re a small team, we focus on quality, functionality, and support for the products we release. We’re always working on new projects and improving our existing tools.
+
+If you need custom development, FiveM resources, or Discord bot systems, feel free to open a ticket and we’ll be happy to help.",
+  "domain": "is-cool.dev",
+  "subdomain": "cjm",
+
+  "owner": {
+    "repo": "https://github.com/CJMJay-dev",
+    "email": "CJM.dev@gmail.com"
+  },
+
+  "record": {
+    "CNAME": "yourdomain.com"
+  },
+
+  "proxied": false
+}
